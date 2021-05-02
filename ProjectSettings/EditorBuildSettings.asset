@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene 3.unity
     guid: 3c27e7c9688cb5a48bedcd8b5e5e2072
+  - enabled: 1
+    path: Assets/Scenes/Hint/BgmOFF.unity
+    guid: 31cc7988f7081a7498a3e65da39a5f57
   m_configObjects: {}
