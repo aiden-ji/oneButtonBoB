@@ -462,7 +462,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 4
+          value: 11
         fsmBoolParams:
         - useVariable: 0
           name: 
