@@ -1007,7 +1007,7 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 222
+        x: 220
         y: 107
         width: 100
         height: 16
@@ -1049,7 +1049,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          enumName: 
+          enumName: UnityEngine.SceneManagement.LoadSceneMode
           intValue: 0
         fsmFloatParams: []
         fsmIntParams:
