@@ -196,10 +196,10 @@ MonoBehaviour:
   m_Text: ' One button bob was desighed and programmed by ...
 
 
-    Credit by Daniel
-    Jung
+    Daniel Jung :
+    Credit
 
-    Help by Eric'
+    Eric: Help'
 --- !u!222 &58348942
 CanvasRenderer:
   m_ObjectHideFlags: 0

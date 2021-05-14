@@ -357,7 +357,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 5
+          value: 2
         fsmBoolParams:
         - useVariable: 0
           name: 
@@ -920,8 +920,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 194.79688
-        y: 233.76562
+        x: 214.79688
+        y: 301.76562
         width: 100
         height: 16
       isBreakpoint: 0
@@ -958,7 +958,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 9
+          value: 1
         fsmBoolParams:
         - useVariable: 0
           name: 
