@@ -196,10 +196,10 @@ MonoBehaviour:
   m_Text: ' One button bob was desighed and programmed by ...
 
 
-    Daniel Jung :
-    Credit
+    Credit by Daniel
+    Jung
 
-    Eric: Help'
+    Help by Eric'
 --- !u!222 &58348942
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1007,7 +1007,7 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 220
+        x: 222
         y: 107
         width: 100
         height: 16
@@ -1049,7 +1049,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          enumName: UnityEngine.SceneManagement.LoadSceneMode
+          enumName: 
           intValue: 0
         fsmFloatParams: []
         fsmIntParams:
