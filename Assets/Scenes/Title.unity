@@ -443,7 +443,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 
+          value: credit
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -478,7 +478,7 @@ MonoBehaviour:
         stringParams:
         - 
         - 
-        byteData: 00000000
+        byteData: 01000000
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
@@ -2286,7 +2286,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 
+          value: help
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -2321,7 +2321,7 @@ MonoBehaviour:
         stringParams:
         - 
         - 
-        byteData: 00000000
+        byteData: 01000000
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
