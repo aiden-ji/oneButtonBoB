@@ -12,13 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de5210ce93b60c74b910290c522cd727, type: 3}
   m_Name: EditorStartupPrefs
   m_EditorClassIdentifier: 
-  welcomeScreenVersion: '1.9.1 '
+  welcomeScreenVersion: 
   playmakerVersion: 
   showWelcomeScreen: 0
   showUpgradeGuide: 0
-<<<<<<< Updated upstream
-  lastAutoUpdateSignature: 2021.1.4f1__C:/Users/kiwis/Documents/GitHub/oneButtonBoB/Assets__0.0.0.0
-=======
-  lastAutoUpdateSignature: 2021.1.4f1__C:/Users/user0818/Documents/GitHub/oneButtonBoB/Assets__0.0.0.0
->>>>>>> Stashed changes
+  lastAutoUpdateSignature: 
   useLegacyNetworking: 0
