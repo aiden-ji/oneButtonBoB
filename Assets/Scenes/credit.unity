@@ -894,6 +894,18 @@ MonoBehaviour:
           m_StringArgument: sent
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1496435656}
+        m_TargetAssemblyTypeName: PlayMakerFSM, PlayMaker
+        m_MethodName: SendEvent
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: deleteAudio
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1496435654
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -956,7 +968,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 50
-        y: 116
+        y: 132
         width: 100
         height: 16
       isBreakpoint: 0
@@ -1007,8 +1019,83 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 222
+        x: 232
         y: 107
+        width: 104
+        height: 16
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions: []
+      actionData:
+        actionNames:
+        - HutongGames.PlayMaker.Actions.DestroyObject
+        customNames:
+        - 
+        actionEnabled: 01
+        actionIsOpen: 01
+        actionStartIndex: 00000000
+        actionHashCodes: 9ff80c02
+        unityObjectParams: []
+        fsmGameObjectParams:
+        - useVariable: 1
+          name: BGM
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {fileID: 0}
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        fsmIntParams: []
+        fsmBoolParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams: []
+        byteData: 
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 130000000f00000011000000
+        paramName:
+        - gameObject
+        - delay
+        - detachChildren
+        paramDataPos: 000000000000000000000000
+        paramByteDataSize: 000000000000000000000000
+    - name: State 3
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 216
+        y: 190
         width: 100
         height: 16
       isBreakpoint: 0
@@ -1049,7 +1136,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          enumName: 
+          enumName: UnityEngine.SceneManagement.LoadSceneMode
           intValue: 0
         fsmFloatParams: []
         fsmIntParams:
@@ -1094,12 +1181,24 @@ MonoBehaviour:
     - name: sent
       isSystemEvent: 0
       isGlobal: 0
+    - name: 'deleteAudio '
+      isSystemEvent: 0
+      isGlobal: 0
     globalTransitions:
+    - fsmEvent:
+        name: 'deleteAudio '
+        isSystemEvent: 0
+        isGlobal: 0
+      toState: State 2
+      linkStyle: 0
+      linkConstraint: 0
+      linkTarget: 0
+      colorIndex: 0
     - fsmEvent:
         name: sent
         isSystemEvent: 0
         isGlobal: 0
-      toState: State 2
+      toState: State 3
       linkStyle: 0
       linkConstraint: 0
       linkTarget: 0
