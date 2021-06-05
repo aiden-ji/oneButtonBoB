@@ -135,6 +135,7 @@ GameObject:
   - component: {fileID: 417827469}
   - component: {fileID: 417827468}
   - component: {fileID: 417827471}
+  - component: {fileID: 417827472}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -307,7 +308,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2003526322319854519, guid: a72d139a9c1c65546be95cd7137b78ff, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 2003526322319854519, guid: a72d139a9c1c65546be95cd7137b78ff, type: 3}
       propertyPath: m_LocalRotation.w
