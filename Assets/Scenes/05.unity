@@ -135,6 +135,7 @@ GameObject:
   - component: {fileID: 417827469}
   - component: {fileID: 417827468}
   - component: {fileID: 417827471}
+  - component: {fileID: 417827472}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -307,7 +308,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2003526322319854519, guid: a72d139a9c1c65546be95cd7137b78ff, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 2003526322319854519, guid: a72d139a9c1c65546be95cd7137b78ff, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1580,7 +1581,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 3
+          value: 3.5
         - useVariable: 1
           name: 
           tooltip: 
@@ -2761,8 +2762,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2091588483}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.3331, y: -3.29, z: 0}
-  m_LocalScale: {x: 6.639977, y: 1, z: 1}
+  m_LocalPosition: {x: 1.3331, y: -5.87, z: 0}
+  m_LocalScale: {x: 6.440778, y: 0.84875, z: 0.97}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5

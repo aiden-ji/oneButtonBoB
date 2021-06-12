@@ -613,6 +613,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7838303247103194905, guid: 386f992d66bc0b346b56ca8a84ee81e0, type: 3}
+      propertyPath: weight
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838303248188108398, guid: 386f992d66bc0b346b56ca8a84ee81e0, type: 3}
+      propertyPath: m_Intensity
+      value: 0.6
+      objectReference: {fileID: 0}
     - target: {fileID: 7838303248262053092, guid: 386f992d66bc0b346b56ca8a84ee81e0, type: 3}
       propertyPath: m_Name
       value: Background (1)
@@ -7790,7 +7798,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 4
+          value: 3.5
         - useVariable: 0
           name: 
           tooltip: 
