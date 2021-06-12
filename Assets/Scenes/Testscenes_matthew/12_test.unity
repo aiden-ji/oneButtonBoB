@@ -2503,19 +2503,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6072342055074276224, guid: a72d139a9c1c65546be95cd7137b78ff, type: 3}
       propertyPath: m_Size.x
-      value: 1.264041
+      value: 1.5518198
       objectReference: {fileID: 0}
     - target: {fileID: 6072342055074276224, guid: a72d139a9c1c65546be95cd7137b78ff, type: 3}
       propertyPath: m_Size.y
-      value: 1.6671957
+      value: 2.2824469
       objectReference: {fileID: 0}
     - target: {fileID: 6072342055074276224, guid: a72d139a9c1c65546be95cd7137b78ff, type: 3}
       propertyPath: m_Offset.x
-      value: -0.03297949
+      value: 0.0017523766
       objectReference: {fileID: 0}
     - target: {fileID: 6072342055074276224, guid: a72d139a9c1c65546be95cd7137b78ff, type: 3}
       propertyPath: m_Offset.y
-      value: 0.020295203
+      value: -0.2873305
       objectReference: {fileID: 0}
     - target: {fileID: 7160442480819378146, guid: a72d139a9c1c65546be95cd7137b78ff, type: 3}
       propertyPath: m_TagString
