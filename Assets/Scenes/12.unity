@@ -459,7 +459,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 26
+          value: 12
         fsmBoolParams:
         - useVariable: 0
           name: 
@@ -1058,7 +1058,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 26
+          value: 12
         fsmBoolParams:
         - useVariable: 0
           name: 
@@ -2607,7 +2607,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 26
+          value: 12
         fsmBoolParams:
         - useVariable: 0
           name: 
@@ -8229,7 +8229,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 26
+          value: 12
         fsmBoolParams:
         - useVariable: 0
           name: 
@@ -13446,7 +13446,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8652349417723757792, guid: a72d139a9c1c65546be95cd7137b78ff, type: 3}
       propertyPath: m_SortingOrder
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a72d139a9c1c65546be95cd7137b78ff, type: 3}
