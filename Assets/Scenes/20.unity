@@ -1687,7 +1687,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1414980394}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.96, y: -1.01, z: -2}
+  m_LocalPosition: {x: 4.5, y: -0.97, z: -2}
   m_LocalScale: {x: 2.0508, y: 2.0508, z: 2.0508}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2658,7 +2658,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2032225427}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.73, y: 6.18, z: -1}
+  m_LocalPosition: {x: 1.83, y: 7.07, z: -1}
   m_LocalScale: {x: 3.093, y: 4.291538, z: 3.093}
   m_Children: []
   m_Father: {fileID: 671845079}
@@ -2755,7 +2755,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: -2
+          value: -3
         - useVariable: 1
           name: 
           tooltip: 
@@ -2888,7 +2888,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 2
+          value: 3
         - useVariable: 1
           name: 
           tooltip: 
