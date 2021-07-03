@@ -8787,7 +8787,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 21
+          value: 22
         fsmBoolParams:
         - useVariable: 0
           name: 
