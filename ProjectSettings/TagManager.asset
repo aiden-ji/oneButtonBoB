@@ -7,7 +7,12 @@ TagManager:
   - weapon
   - diePlatform
   - levelPass
+<<<<<<< Updated upstream
   - monster
+=======
+  - bat
+  - spiotter
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX

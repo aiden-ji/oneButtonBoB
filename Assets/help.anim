@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: fun 2
+  m_Name: help
   serializedVersion: 6
   m_Legacy: 1
   m_Compressed: 0
@@ -21,31 +21,31 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0
-        value: -363
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        time: 0.033333335
+        value: 1174.6432
+        inSlope: -835.02484
+        outSlope: -835.02484
+        tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
-        outWeight: 0.33333334
+        outWeight: 0.3066491
       - serializedVersion: 3
-        time: 0.31666666
-        value: -57
-        inSlope: 1983.4286
-        outSlope: 1983.4286
-        tangentMode: 136
+        time: 0.76666665
+        value: 543.36566
+        inSlope: -982.0702
+        outSlope: -982.0702
+        tangentMode: 0
         weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
+        inWeight: 0.24637198
+        outWeight: 0.25794762
       - serializedVersion: 3
-        time: 0.5833333
-        value: 794
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        time: 1.6333333
+        value: -321.2863
+        inSlope: -1120.9075
+        outSlope: -1120.9075
+        tangentMode: 0
         weightedMode: 0
-        inWeight: 0.33333334
+        inWeight: 0.30515745
         outWeight: 0.33333334
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -56,7 +56,7 @@ AnimationClip:
     script: {fileID: 0}
   m_PPtrCurves: []
   m_SampleRate: 60
-  m_WrapMode: 0
+  m_WrapMode: 1
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
@@ -68,7 +68,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.5833333
+    m_StopTime: 1.6333333
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -88,31 +88,31 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0
-        value: -363
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        time: 0.033333335
+        value: 1174.6432
+        inSlope: -835.02484
+        outSlope: -835.02484
+        tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
-        outWeight: 0.33333334
+        outWeight: 0.3066491
       - serializedVersion: 3
-        time: 0.31666666
-        value: -57
-        inSlope: 1983.4286
-        outSlope: 1983.4286
-        tangentMode: 136
+        time: 0.76666665
+        value: 543.36566
+        inSlope: -982.0702
+        outSlope: -982.0702
+        tangentMode: 0
         weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
+        inWeight: 0.24637198
+        outWeight: 0.25794762
       - serializedVersion: 3
-        time: 0.5833333
-        value: 794
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        time: 1.6333333
+        value: -321.2863
+        inSlope: -1120.9075
+        outSlope: -1120.9075
+        tangentMode: 0
         weightedMode: 0
-        inWeight: 0.33333334
+        inWeight: 0.30515745
         outWeight: 0.33333334
       m_PreInfinity: 2
       m_PostInfinity: 2
